@@ -3,7 +3,7 @@ import java.awt.*;
 import java.util.*;
 import java.net.*;
 
-public class JavasoftMenu extends Applet {
+public class JavaSoftMenu extends Applet {
 
 	/**
 	 * 
